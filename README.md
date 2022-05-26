@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Software development projects, data science works.
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mohamad-fasil-ansaary-m-07b6ba1b9/)
+[![LinkedIn][linkedin-shield]][(https://www.linkedin.com/in/mohamad-fasil-ansaary-m-07b6ba1b9/)]
 
 <!---
 fasil-ansaary/fasil-ansaary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
