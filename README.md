@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Software development projects, data science works.
 
 
-[![Linkedin: Fasil](https://img.shields.io/badge/-fasil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.[[linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/mohamad-fasil-ansaary-m-07b6ba1b9/)](https://www.linkedin.com/in/mohamad-fasil-ansaary-m-07b6ba1b9/))](https://www.[linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/mohamad-fasil-ansaary-m-07b6ba1b9/))
+[![Linkedin: Fasil](https://img.shields.io/badge/-fasil-ansaary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.[[linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/mohamad-fasil-ansaary-m-07b6ba1b9/)](https://www.linkedin.com/in/mohamad-fasil-ansaary-m-07b6ba1b9/))](https://www.[linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/mohamad-fasil-ansaary-m-07b6ba1b9/))
 
 <!---
 fasil-ansaary/fasil-ansaary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
