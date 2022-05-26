@@ -2,9 +2,7 @@
 - 👀 I’m interested in Data Science, Machine Learning and Software development.
 - 🌱 I’m currently learning DSA, NLP, Data analytics.
 - 💞️ I’m looking to collaborate on Software development projects, data science works.
-
-
-[![LinkedIn][linkedin-shield]][(https://www.linkedin.com/in/mohamad-fasil-ansaary-m-07b6ba1b9/)]
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.[[linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/mohamad-fasil-ansaary-m-07b6ba1b9/)](https://www.linkedin.com/in/mohamad-fasil-ansaary-m-07b6ba1b9/))](https://www.[linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/mohamad-fasil-ansaary-m-07b6ba1b9/))
 
 <!---
 fasil-ansaary/fasil-ansaary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
